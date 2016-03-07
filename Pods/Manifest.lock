@@ -1,0 +1,15 @@
+PODS:
+  - BmobSDK (1.6.6)
+  - FMDB (2.6):
+    - FMDB/standard (= 2.6)
+  - FMDB/standard (2.6)
+
+DEPENDENCIES:
+  - BmobSDK (~> 1.6.6)
+  - FMDB (~> 2.6)
+
+SPEC CHECKSUMS:
+  BmobSDK: c896d4ff3986f2b4fc8406fb2b801230f7419878
+  FMDB: c1968bab3ab0aed38f66cb778ae1e7fa9a652b6e
+
+COCOAPODS: 0.39.0
